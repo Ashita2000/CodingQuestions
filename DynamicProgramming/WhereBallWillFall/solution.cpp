@@ -25,7 +25,6 @@ public:
                         gridTemp[i][j]=gridTemp[i+1][j-1];
                     }
                 }
-                //cout<<i<<" "<<j<<" "<<gridTemp[i][j]<<"\n";
             }
 
         }
