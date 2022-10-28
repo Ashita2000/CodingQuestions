@@ -12,6 +12,9 @@ Return an array answer of size n where answer[i] is the column that the ball fal
 
 
 ### Example 1:
+ ![img](https://user-images.githubusercontent.com/21989049/198521367-516bc3d9-d0d8-4f3b-96c4-bed2536928e3.jpg)
+ 
+
 
 <b>Input: </b> grid = [[1,1,1,-1,-1],[1,1,1,-1,-1],[-1,-1,-1,1,1],[1,1,1,1,-1],[-1,-1,-1,-1,-1]] <br/>
 <b>Output:</b> [1,-1,-1,-1,-1] <br/>
